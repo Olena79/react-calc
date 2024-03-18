@@ -1,0 +1,12 @@
+.field {
+    padding: 6px;
+    border-radius: 6px;
+    background-color: rgb(151, 150, 157);
+    color: rgb(50, 50, 50);
+    font-size: 40px;
+    font-weight: 700;
+    max-width: 340px;
+    min-width: 340px;
+    text-align: end;
+    min-height: 50px;
+}

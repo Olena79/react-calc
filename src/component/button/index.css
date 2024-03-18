@@ -1,0 +1,17 @@
+.button {
+    border: 3px double grey;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(67, 66, 66);
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.7;
+}
+
+.button:active {
+    opacity: 0.4;
+}

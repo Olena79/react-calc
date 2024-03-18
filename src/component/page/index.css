@@ -1,0 +1,10 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    padding: 16px;
+    background-color: beige;
+    border-radius: 12px;
+    max-width: 400px;
+}
